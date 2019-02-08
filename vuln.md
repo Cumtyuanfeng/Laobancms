@@ -48,7 +48,14 @@ Visit: `admin/info.php?shuyu=基础设置`
 
 Fill `"><script>alert(1)</script>` in the  "网站SEO关键词"  form
 
+Click the '保存更改' button to save the changes
+
+Click the '生成'->'更新今日' button int the upper right corner to update
+
+Then visit the index
+
 ![](https://github.com/Cumtyuanfeng/Laobancms/blob/master/images/XSS_1_1.png)
+
 
 
 
@@ -63,6 +70,12 @@ Fill `"><script>alert(1)</script>` in the  "网站SEO关键词"  form
 Visit:  `admin/info.php?shuyu=我的参数`
 
 Fill   `<script>alert(1)</script>` in the  "首页简介"  form
+
+Click the '保存更改' button to save the changes
+
+Click the '生成'->'更新今日' button int the upper right corner to update
+
+Then visit the index
 
 ![](https://github.com/Cumtyuanfeng/Laobancms/blob/master/images/XSS_2_1.png)
 
