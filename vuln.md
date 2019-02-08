@@ -44,6 +44,8 @@ We can get shell !
 
 #### XSS1
 
+Login the admin page by setting the cookie(id=1)  (CVE-2018-19224)
+
 Visit: `admin/info.php?shuyu=基础设置`
 
 Fill `"><script>alert(1)</script>` in the  "网站SEO关键词"  form
@@ -66,6 +68,8 @@ Then visit the index
 
 
 #### XSS2
+
+Login the admin page by setting the cookie(id=1)  (CVE-2018-19224)
 
 Visit:  `admin/info.php?shuyu=我的参数`
 
