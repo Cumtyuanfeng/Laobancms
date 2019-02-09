@@ -52,7 +52,7 @@ Fill `"><script>alert(1)</script>` in the  "网站SEO关键词"  form
 
 Click the '保存更改' button to save the changes
 
-Click the '生成'->'更新今日' button int the upper right corner to update
+Click the '生成'->'更新今日' button in the upper right corner to update
 
 Then visit the index
 
@@ -77,7 +77,7 @@ Fill   `<script>alert(1)</script>` in the  "首页简介"  form
 
 Click the '保存更改' button to save the changes
 
-Click the '生成'->'更新今日' button int the upper right corner to update
+Click the '生成'->'更新今日' button in the upper right corner to update
 
 Then visit the index
 
